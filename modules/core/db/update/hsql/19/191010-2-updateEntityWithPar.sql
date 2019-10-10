@@ -1,0 +1,2 @@
+alter table TESTEXTENDSENTIES_ENTITY_WITH_PAR add column EXTEND_ONE_REF varchar(36) ;
+alter table TESTEXTENDSENTIES_ENTITY_WITH_PAR add column EXTEND_TWO_REF varchar(36) ;

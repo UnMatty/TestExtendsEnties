@@ -1,0 +1,1 @@
+drop table TESTEXTENDSENTIES_BASE_TEST_ENTITY__U92851 if exists cascade ;

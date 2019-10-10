@@ -1,0 +1,1 @@
+alter table TESTEXTENDSENTIES_ENTITY_WITH_PAR add constraint FK_TESTEXTENDSENTIES_ENTITY_WITH_PAR_ON_EXTEND_ONE_REF foreign key (EXTEND_ONE_REF) references testextendsenties_ExtendOne(ID);
